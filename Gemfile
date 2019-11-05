@@ -66,3 +66,5 @@ gem 'table_print'
 gem 'dotenv-rails'
 gem 'sendgrid-ruby'
 gem 'letter_opener'
+
+gem 'devise'
